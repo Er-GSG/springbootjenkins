@@ -77,5 +77,5 @@ public class Todo {
 		return "Todo [id=" + id + ", user=" + user + ", dessc=" + dessc + ", targetDate=" + targetDate + ", isDone="
 				+ isDone + "]";
 	}
-
+   int a=0;
 }
